@@ -1,0 +1,11 @@
+boat_id,name,price_per_hour,available
+1,Speedboat,50.0,1
+2,Yacht,200.0,1
+3,Kayak,20.0,1
+4,Canoe,25.0,1
+5,Sailboat,75.0,1
+6,Pontoon,100.0,1
+7,Rowboat,15.0,1
+8,Dinghy,30.0,1
+9,Catamaran,150.0,1
+10,Houseboat,250.0,1

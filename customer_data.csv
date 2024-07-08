@@ -1,0 +1,11 @@
+customer_id,name,phone,email
+1,John Doe,1234567890,john@example.com
+2,Jane Smith,0987654321,jane@example.com
+3,Bob Johnson,2345678901,bob@example.com
+4,Alice Brown,3456789012,alice@example.com
+5,Charlie Davis,4567890123,charlie@example.com
+6,Eve Miller,5678901234,eve@example.com
+7,Frank Wilson,6789012345,frank@example.com
+8,Grace Lee,7890123456,grace@example.com
+9,Hank Thomas,8901234567,hank@example.com
+10,Ivy Clark,9012345678,ivy@example.com
